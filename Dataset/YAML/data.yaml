@@ -1,0 +1,11 @@
+path: C:/Users/user/SafetyHelmetDetection/Dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 2
+
+names:
+  0: safety_helmet
+  1: no_safety_helmet

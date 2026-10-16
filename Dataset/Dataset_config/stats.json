@@ -1,0 +1,23 @@
+{
+  "train": {
+    "images": 1908,
+    "boxes": 13299,
+    "helmet": 7714,
+    "no_helmet": 5585,
+    "no_detection": 210
+  },
+  "valid": {
+    "images": 546,
+    "boxes": 3804,
+    "helmet": 2142,
+    "no_helmet": 1662,
+    "no_detection": 57
+  },
+  "test": {
+    "images": 273,
+    "boxes": 1999,
+    "helmet": 1096,
+    "no_helmet": 903,
+    "no_detection": 24
+  }
+}
